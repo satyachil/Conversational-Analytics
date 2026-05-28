@@ -2,7 +2,7 @@
 
 A basic workflow built with **LangGraph**, **Python**, **BigQuery** and **Google Gemini**  to perform conversational analytics on Google Cloud BigQuery datasets. 
 
-This repository shows the basics of building conversastional analytics agents in Langgraph to interact with data stored on BigQuery with some guardrails. It uses a basic generate-evaluate-optimise pattern to generate SQL queries and answer user queries. It also demonstrates tool usage to generate basic charts from natural language questions.
+This repository shows the basics of building conversational analytics agents in Langgraph to interact with data stored on BigQuery with some guardrails. It uses a basic generate-evaluate-optimise pattern to generate SQL queries and answer user queries. It also demonstrates tool usage to generate basic charts from natural language questions.
 By no means is this a production worthy agent. However it can serve as a baseline to build upon for production applications. 
 
 ---
